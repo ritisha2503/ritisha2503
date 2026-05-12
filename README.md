@@ -1,16 +1,150 @@
-## Hi there 👋
+<h1 align="center">hey there 👋 i'm Ritisha</h1>
 
-<!--
-**ritisha2503/ritisha2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  building things where <b>computer vision</b>, <b>machine learning</b>, and <b>creative coding</b> collide ✨
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ritisha2503">
+    <img src="https://komarev.com/ghpvc/?username=ritisha2503&label=profile+views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 about me
+
+- 🎓 exploring the world of **machine learning**, **deep learning**, and **computer vision**
+- 🧠 currently learning neural networks from scratch through <b>micrograd</b>, <b>makemore</b>, backprop, CNNs, RNNs, WaveNet and more
+- 🎮 love building projects that feel interactive and visual
+- 🛠️ enjoy turning theory into working code instead of just notebook experiments
+- 🏀 balancing code with basketball, running, and way too many side project ideas
+
+---
+
+## ⚡ tech stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,react,nodejs,mysql,opencv,git,github,vscode,linux&perline=8" />
+
+</p>
+
+---
+
+## 🚀 featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 ML + Computer Vision
+
+- 🔹 **gesture-controlled-tetris**  
+  Tetris controlled using real-time hand gestures with OpenCV + MediaPipe
+
+- 🔹 **background-removal**  
+  Background subtraction and image segmentation experiments
+
+- 🔹 **image-k-means-clustering**  
+  K-means clustering in image/color space visualization
+
+- 🔹 **ball-tracker**  
+  Object tracking pipeline using OpenCV
+
+- 🔹 **path-planning**  
+  Algorithms for navigation and shortest-path exploration
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deep Learning + Systems
+
+- 🔹 **micrograd-from-scratch**  
+  Tiny autograd engine inspired by Karpathy’s micrograd
+
+- 🔹 **california-housing-model**  
+  ML regression pipeline for housing price prediction
+
+- 🔹 **pacman**  
+  Classic Pacman implementation with game logic from scratch
+
+- 🔹 **Connect-Four**  
+  Grid-based strategy game implementation
+
+- 🔹 **task-manager**  
+  Productivity/task management web app
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 github stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ritisha2503&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritisha2503&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritisha2503&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 currently exploring
+
+```python
+while True:
+    learn()
+    build()
+    break_things()
+    debug()
+    repeat()
+````
+
+* neural networks from scratch
+* computer vision pipelines
+* human-computer interaction projects
+* deep learning architectures
+* real-time AI applications
+
+---
+
+## 🌌 outside of work
+
+when i'm not coding, you'll probably find me:
+
+* 🏀 playing basketball
+* 🏃 running at sunrise pretending i'm in a sports anime montage
+* 🎧 listening to music while debugging code that broke for “absolutely no reason”
+* 📸 collecting project ideas faster than i can finish them
+
+---
+
+## 🤝 let's connect
+
+<p align="center">
+  <a href="https://github.com/ritisha2503">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"learning by building" has been the entire strategy so far 🚀</i>
+</p>
+```
