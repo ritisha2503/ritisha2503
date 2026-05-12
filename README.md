@@ -175,4 +175,3 @@ when i'm not coding, you'll probably find me:
 <p align="center">
   <i>"learning by building" has been the entire strategy so far 🚀</i>
 </p>
-```
