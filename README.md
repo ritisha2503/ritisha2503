@@ -147,8 +147,7 @@ while True:
 
 when i'm not coding, you'll probably find me:
 
-* 🏀 playing basketball
-* 🏃 running at sunrise pretending i'm in a sports anime montage
+* 🏃 playing basketball, tennis, running pretending i'm in a sports anime montage
 * 🎧 listening to music while debugging code that broke for “absolutely no reason”
 * 📸 collecting project ideas faster than i can finish them
 
